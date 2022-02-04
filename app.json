@@ -1,0 +1,30 @@
+{
+  "name": "wsftghgjklk",
+  "description": "wsftghgjklk",
+  "keywords": [
+    "wsftghgjklk"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "value": "vless",
+      "required": true
+    },
+    "UUID": {
+      "description": "用户的主ID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocket路径",
+      "value": "/app",
+      "required": true
+    }
+  },
+  "website": "https://github.com/MoP9VAk2m/oijbgfr",
+  "repository": "https://github.com/MoP9VAk2m/oijbgfr",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
